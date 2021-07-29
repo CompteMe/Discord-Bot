@@ -1,0 +1,9 @@
+# Node
+node_modules/
+# Idea
+.idea/
+# Database
+chcam.json
+count.json
+# Config
+config.json

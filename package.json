@@ -1,0 +1,19 @@
+{
+  "name": "CompteMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "easy-json-database": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "preinstall": "echo \"Change config.json file to use bot\" && ren config.json.example config.json && echo \"Installing packages...\"",
+    "install": "echo \"Packages installed\" && echo \"Starting bot\" && npm run start",
+    "start": "echo \"Verify you have edited the config.json file\" && node ."
+  },
+  "keywords": [],
+  "author": "@Compted#1509",
+  "license": "ISC"
+}
