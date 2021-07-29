@@ -4,7 +4,7 @@ Type `npm install`.
 ## Usage
 Type `node .`
 ## License
-View file [LICENSE](blob/main/LICENSE)
+View file [LICENSE](LICENSE)
 ## Collaborators
 ### Mimexe
 [Github](https://github.com/Mimexe) <br />
